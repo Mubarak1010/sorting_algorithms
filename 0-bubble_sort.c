@@ -3,8 +3,8 @@
 
 /**
  * swap - program entry
- * a: first number
- * b: second number
+ * @a: first number
+ * @b: second number
  *
  * Return: nothing
  */
